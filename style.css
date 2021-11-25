@@ -28,8 +28,6 @@ body {
 #hour {
   height: 23%;
   width: 1.7%;
-/*  margin-left: 49.73%;
-  margin-top: 24%;*/
   margin-left: 49%;
   margin-top: 28.25%;
   transform-origin: bottom;
@@ -40,8 +38,6 @@ body {
 #minute {
   height: 27%;
   width: 1%;
-/*  top: 20%;
-  left: 50.1%;*/
   top: 24.1%;
   margin-left: 49.3%;
   transform-origin: bottom;
@@ -52,8 +48,6 @@ body {
 #second {
   height: 37.5%;
   width: 0.5%;
-/*  top: 17%;
-  left: 50.31%;*/
   margin-left: 49.6%;
   margin-top: 20%;
   transform-origin: 60% 84%;
